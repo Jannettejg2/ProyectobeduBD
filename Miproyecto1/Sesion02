@@ -1,0 +1,118 @@
+
+Janet@Jannettejg2 MINGW64 ~/.git/ProyectobeduBD/Miproyecto1 (master)
+$ cd ..
+
+Janet@Jannettejg2 MINGW64 ~/.git/ProyectobeduBD (master)
+$ ls
+Miproyecto1/  README.md
+
+Janet@Jannettejg2 MINGW64 ~/.git/ProyectobeduBD (master)
+$ cd Miproyecto1
+
+Janet@Jannettejg2 MINGW64 ~/.git/ProyectobeduBD/Miproyecto1 (master)
+$ ls
+ejemplo1.csv  ejemplo1.txt  redes_proveedores_referencias.csv
+
+Janet@Jannettejg2 MINGW64 ~/.git/ProyectobeduBD/Miproyecto1 (master)
+$ head redes_proveedores_referencias.csv
+IdProveedor;IdProveedorT5;EnAsistco;Prioridad;NombreComercial;TipoServicio;FechaAlta;UsuarioAlta;UltimaModificacion;PrvActivo;FueraRed;Bloqueo;PagoDirecto;PagoUrgente;IdSrvTipo;IdBanco;Banco;SucursalBanco;BancoCuenta;BancoClabe;TarjetaHabiente;RFC;Curp;IdSucursal;NombreSucursal;SucActiva;Oficina_1;EntidadSucursal;MunicipioSucursal;Latitud;Longitud;Direccion;CodigoPostal;"Correo Electrónico_1";Oficina_2;"Correo Electrónico_2";Oficina_3;Negocio_1;Consultorio_1;Persona_1;Casa_1;Celular_1;nota_1_PrvNotaTipo;nota_1_PrvNota;nota_1_Comentario;"Correo Corporativo_1";nota_2_PrvNotaTipo;nota_2_PrvNota;nota_2_Comentario;"Correo Corporativo_2";"Correo Electrónico_3";"Correo Corporativo_3";Oficina_4;"Correo Electrónico_4";"Correo Corporativo_4";Oficina_5;"Correo Electrónico_5";"Correo Corporativo_5";Oficina_6;Fax_1;"Nextel (Radio)_1";Despacho_1;nota_3_PrvNotaTipo;nota_3_PrvNota;nota_3_Comentario;nota_4_PrvNotaTipo;nota_4_PrvNota;nota_4_Comentario;nota_5_PrvNotaTipo;nota_5_PrvNota;nota_5_Comentario;nota_6_PrvNotaTipo;nota_6_PrvNota;nota_6_Comentario;Extension_1;Extension_2;especialidad_1;especialidad_2;especialidad_3;especialidad_4;especialidad_5;especialidad_6;especialidad_7;especialidad_8;especialidad_9;especialidad_10;especialidad_11;especialidad_12;especialidad_13;especialidad_14;especialidad_15;especialidad_16;especialidad_17;especialidad_18;especialidad_19;especialidad_20;especialidad_21;especialidad_22;especialidad_23;especialidad_24;especialidad_25;especialidad_26;especialidad_27;especialidad_28;especialidad_29;especialidad_30;especialidad_31;especialidad_32;especialidad_33;especialidad_34;especialidad_35;especialidad_36;especialidad_37;especialidad_38;especialidad_39;especialidad_40;Negocio_2;Negocio_3;Consultorio_2;"Lada sin costo_1";nota_7_PrvNotaTipo;nota_7_PrvNota;nota_7_Comentario;nota_8_PrvNotaTipo;nota_8_PrvNota;nota_8_Comentario
+4785;;No;1;"ARLET ESTETICA Y SPA";"Hospital Tabulado";0000-00-00;"Ana Karen Lopez Giron";2019-04-08;No;No;No;No;No;83;;;;;;;;;565;MEXICALI;0;6865564956;"Baja California";Mexicali;32.6633333333333;-115.467777777778;"CALZ ANÁHUAC 1618, JARDINES DEL LAGO, MEXICALI, BAJA CALIFORNIA, ";;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+4785;;No;1;"ARLET ESTETICA Y SPA";"Hospital Tabulado";0000-00-00;"Ana Karen Lopez Giron";2019-04-08;No;No;No;No;No;83;;;;;;;;;2261;"MEXICALI - MEXICALI";0;6865564956;"Baja California";Mexicali;32.6633333333333;-115.467777777778;"CALZ ANÁHUAC 1618, JARDINES DEL LAGO, MEXICALI, BAJA CALIFORNIA, ";;resultados@labexpress.com.mx;6646828880;resultados@labexpress.com.mx;6646828880;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+8523;;No;1;"CENTRAL DE ESPECIALIDADES MEDICAS LA PAZ";"Hospital Tabulado";0000-00-00;"Thalia García Huerta";2019-04-12;No;No;No;No;No;83;;;;;;;;;585;"LA PAZ";0;0;"Baja California Sur";"La Paz";24.1422222222222;-110.310833333333;"DELFINES NO. 110 Y CARRETERA AL AEROPUERTO KM 4.5, FRACC. FIDEPAZ, LA PAZ, BAJA CALIFORNIA SUR, 23090";23090;0;0;0;0;6121240401;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+8523;;No;1;"CENTRAL DE ESPECIALIDADES MEDICAS LA PAZ";"Hospital Tabulado";0000-00-00;"Thalia García Huerta";2019-04-12;No;No;No;No;No;83;;;;;;;;;2292;"LA PAZ - LA PAZ";0;6461120147;"Baja California Sur";"La Paz";24.1422222222222;-110.310833333333;"DELFINES NO. 110, SECTOR LA SELVA FIDEPAZ, LA PAZ, BAJA CALIFORNIA SUR, ";;CEM1A@PRODIGY.NET.MX;0;LABORATORIO@BORBOLLA.COM.MX;0;6121240401;6121240400;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+8832;;No;1;"CENTRO DE ESPECIALIDADES MEDICAS COACALCO";"Hospital Tabulado";0000-00-00;"Thalia García Huerta";2019-04-12;No;No;No;No;No;83;;;;;;;;;593;"COACALCO DE BERRIOZABAL";0;0;México;"Coacalco de Berriozábal";19.6333333333333;-99.0930555555556;"BLVD. COACALCO # 137, VILLA DE LAS FLORES, COACALCO DE BERRIOZABAL, ESTADO DE MÉXICO, 55710";55710;0;0;0;0;0;0;"NANCY MERCADO";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+8832;;No;1;"CENTRO DE ESPECIALIDADES MEDICAS COACALCO";"Hospital Tabulado";0000-00-00;"Thalia García Huerta";2019-04-12;No;No;No;No;No;83;;;;;;;;;2303;"COACALCO DE BERRIOZABAL - COACALCO DE BERRIOZÁBAL";0;6878725551;México;"Coacalco de Berriozábal";19.6333333333333;-99.0930555555556;"BLVD. COACALCO # 137, VILLA DE LAS FLORES, COACALCO DE BERRIOZABAL, ESTADO DE MÉXICO, 55710";55710;CEMC2023@HOTMAIL.COM;0;labguerrerocentro@hotmail.com;0;58987270;0;"LIC. ARTURO VELAZQUEZ";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+8856;;No;1;"CENTRO DE ESPECIALIDADES MEDICAS LAS HUASTECAS";"Hospital Tabulado";0000-00-00;"Thalia García Huerta";2019-04-12;No;No;No;No;No;83;;;;;;;;;594;"TUXPAN DE RODRIGUEZ CANO";0;0;"Veracruz de Ignacio de la Llave";Tuxpan;20.9586111111111;-97.3808333333333;"CUAUHTEMOC NO. 82, DEL VALLE, TUXPAN DE RODRIGUEZ CANO, VERACRUZ, ";;ADMINISTRACION@CEMETUX.COM.MX;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+8856;;No;1;"CENTRO DE ESPECIALIDADES MEDICAS LAS HUASTECAS";"Hospital Tabulado";0000-00-00;"Thalia García Huerta";2019-04-12;No;No;No;No;No;83;;;;;;;;;2304;"TUXPAN DE RODRIGUEZ CANO - TUXPAM";0;0;"Veracruz de Ignacio de la Llave";Tuxpan;20.9586111111111;-97.3808333333333;"CUAUHTEMOC NO. 82, DEL VALLE, TUXPAN DE RODRIGUEZ CANO, VERACRUZ, ";;ENLACEMEDICO@CEMETUX.COM.MX;0;0;0;7838347401;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+8886;;No;1;"CENTRO HOSPITALARIO UNION";"Hospital Tabulado";0000-00-00;"Thalia García Huerta";2019-04-12;No;No;No;No;No;83;;;;;;;;;598;"VILLA DE ALVAREZ";0;3123113737;Colima;"Villa de Álvarez";19.2672222222222;-103.737777777778;"ENRIQUE CORONA MORFIN NO. 90, CENTRO, VILLA DE ALVAREZ, COLIMA, ";;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+
+Janet@Jannettejg2 MINGW64 ~/.git/ProyectobeduBD/Miproyecto1 (master)
+$ grep -a CRITERIO redes_proveedores_referencias.csv | head
+
+Janet@Jannettejg2 MINGW64 ~/.git/ProyectobeduBD/Miproyecto1 (master)
+$ less redes_proveedores_referencias.csv
+
+Janet@Jannettejg2 MINGW64 ~/.git/ProyectobeduBD/Miproyecto1 (master)
+$ tail redes_proveedores_referencias.csv
+13424;21974;No;1;SALUTEM;"Hospital Tabulado";0000-00-00;"Marisol Olivares";2019-11-05;Si;No;No;No;No;83;72;BANORTE;1;0220947167;007265000220947167;"SATULEM CENTRO DE ALTA ESPECIALIDAD S.A DE C.V";SCA130912D93;;16235;"21974 - OTORRINOLARINGOLOGIA Y CIRUGIA DE CABEZA Y CUELLO - TLAXCALA - HUAMANTLA";0;2227534519;Tlaxcala;Huamantla;19.3113888888889;-97.9233333333333;"., COLONIA ., HUAMANTLA TLAXCALA, C.P. 90501";99999;0;0;0;0;0;0;0;0;0;Comentarios;COMENTARIO;"HASTA UN 20% DE DESCUENTO EN RAYOS X LABORATORIO Y ULTRASONIDO, HASTA UN 10% DE DESCUENTO EN HOSPITALIZACION";0;Comentarios;"VALIDACION COSTO DIRECCION CONTACTOS";"13/02/2020 SE CONFIRMA CONVENIO CON PAOLA RAMOS Y DRA. INDIRA CRUZ";0;0;0;0;0;0;0;0;0;0;0;0;0;Proveedores;"COSTO TELASIST TELEMEDIC";"DESCUENTO EN CONSULTA DE ESPECIALIDAD (CIRUGIA GENERAL, GINECOLOGIA Y OBSTETRICIA, MEDICINA INTERNA, MEDICINA GENERAL, ORTOPEDIA, OTORRINOLARINGOLOGIA Y CIRUGIA DE CABEZA Y CUELLO, PEDIATRIA)";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+13424;21974;No;1;SALUTEM;"Hospital Tabulado";0000-00-00;"Marisol Olivares";2019-11-05;Si;No;No;No;No;83;72;BANORTE;1;0220947167;007265000220947167;"SATULEM CENTRO DE ALTA ESPECIALIDAD S.A DE C.V";SCA130912D93;;16236;"21974 - OTORRINOLARINGOLOGIA Y CIRUGIA DE CABEZA Y CUELLO - TLAXCALA - TLAXCALA";0;2227534519;Tlaxcala;"Santa Cruz Tlaxcala";19.3547222222222;-98.1502777777778;"., COLONIA ., TLAXCALA TLAXCALA, C.P. 90801";99999;0;0;0;0;0;0;0;0;0;Comentarios;COMENTARIO;"HASTA UN 20% DE DESCUENTO EN RAYOS X LABORATORIO Y ULTRASONIDO, HASTA UN 10% DE DESCUENTO EN HOSPITALIZACION";0;Comentarios;"VALIDACION COSTO DIRECCION CONTACTOS";"13/02/2020 SE CONFIRMA CONVENIO CON PAOLA RAMOS Y DRA. INDIRA CRUZ";0;0;0;0;0;0;0;0;0;0;0;0;0;Proveedores;"COSTO TELASIST TELEMEDIC";"DESCUENTO EN CONSULTA DE ESPECIALIDAD (CIRUGIA GENERAL, GINECOLOGIA Y OBSTETRICIA, MEDICINA INTERNA, MEDICINA GENERAL, ORTOPEDIA, OTORRINOLARINGOLOGIA Y CIRUGIA DE CABEZA Y CUELLO, PEDIATRIA)";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+13424;21974;No;1;SALUTEM;"Hospital Tabulado";0000-00-00;"Marisol Olivares";2019-11-05;Si;No;No;No;No;83;72;BANORTE;1;0220947167;007265000220947167;"SATULEM CENTRO DE ALTA ESPECIALIDAD S.A DE C.V";SCA130912D93;;16237;"21974 - PEDIATRIA - TLAXCALA - CHIAUTEMPAN";0;2227534519;Tlaxcala;Chiautempan;19.3138888888889;-98.1925;"., COLONIA ., CHIAUTEMPAN TLAXCALA, C.P. 90501";99999;0;0;0;0;0;0;0;0;0;Comentarios;COMENTARIO;"HASTA UN 20% DE DESCUENTO EN RAYOS X LABORATORIO Y ULTRASONIDO, HASTA UN 10% DE DESCUENTO EN HOSPITALIZACION";0;Comentarios;"VALIDACION COSTO DIRECCION CONTACTOS";"13/02/2020 SE CONFIRMA CONVENIO CON PAOLA RAMOS Y DRA. INDIRA CRUZ";0;0;0;0;0;0;0;0;0;0;0;0;0;Proveedores;"COSTO TELASIST TELEMEDIC";"DESCUENTO EN CONSULTA DE ESPECIALIDAD (CIRUGIA GENERAL, GINECOLOGIA Y OBSTETRICIA, MEDICINA INTERNA, MEDICINA GENERAL, ORTOPEDIA, OTORRINOLARINGOLOGIA Y CIRUGIA DE CABEZA Y CUELLO, PEDIATRIA)";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+13424;21974;No;1;SALUTEM;"Hospital Tabulado";0000-00-00;"Marisol Olivares";2019-11-05;Si;No;No;No;No;83;72;BANORTE;1;0220947167;007265000220947167;"SATULEM CENTRO DE ALTA ESPECIALIDAD S.A DE C.V";SCA130912D93;;16238;"21974 - PEDIATRIA - TLAXCALA - HUAMANTLA";0;2227534519;Tlaxcala;Huamantla;19.3113888888889;-97.9233333333333;"., COLONIA ., HUAMANTLA TLAXCALA, C.P. 90801";99999;0;0;0;0;0;0;0;0;0;Comentarios;COMENTARIO;"HASTA UN 20% DE DESCUENTO EN RAYOS X LABORATORIO Y ULTRASONIDO, HASTA UN 10% DE DESCUENTO EN HOSPITALIZACION";0;Comentarios;"VALIDACION COSTO DIRECCION CONTACTOS";"13/02/2020 SE CONFIRMA CONVENIO CON PAOLA RAMOS Y DRA. INDIRA CRUZ";0;0;0;0;0;0;0;0;0;0;0;0;0;Proveedores;"COSTO TELASIST TELEMEDIC";"DESCUENTO EN CONSULTA DE ESPECIALIDAD (CIRUGIA GENERAL, GINECOLOGIA Y OBSTETRICIA, MEDICINA INTERNA, MEDICINA GENERAL, ORTOPEDIA, OTORRINOLARINGOLOGIA Y CIRUGIA DE CABEZA Y CUELLO, PEDIATRIA)";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+13317;20542;No;1;"ESPECIALIDADES MEDICAS SANTA ELENA";"Hospital Tabulado";0000-00-00;Sistemas;0000-00-00;Si;No;No;No;No;83;72;BANORTE;821;0821007291;072930008210072915;"ESPECIALIDADES MEDICAS SANTA ELENA, S.A. DE C.V.";EMS900613HW9;;15751;"SUC CENTRO";1;4929226970;Zacatecas;Zacatecas;22.7716666666667;-102.575277777778;"AV. GUERRERO # 143, COL. CENTRO, ZACATECAS, ZACATECAS";98000;JANA_23@HOTMAIL.COM;0;0;0;0;0;0;0;0;Comentarios;"VALIDACION COSTO DIRECCION CONTACTOS";"21/01/2020 SE CONFIRMA CONVENIO CON  CECILIA VILLALPANDO";0;Proveedores;Proveedor;"LUNES A VIERNES DE 7:00 A 16:00. :: SÁBADO DE 7:00 A 13:65";0;0;0;0;0;0;0;0;0;0;0;0;0;Referencias;"DESCUENTO TELEMEDIC";"HASTA 10% DE DESCUENTO EN LABORATORIO, URGENCIAS, SERVICIOS HOSPITALARIOS  Y FARMACIA";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+19157;;No;1;"HOSPITAL SANTA ROSA";"Hospital Tabulado";0000-00-00;Sistemas;2020-02-17;Si;No;No;Si;No;83;;;;;;;;;26392;ORTOPEDIA;1;0;"Ciudad de México";Iztacalco;19.3952777777778;-99.0977777777778;"Calle Siete 104, Agrícola Pantitlán, Iztacalco,Ciudad de México.";08100;0;0;0;0;0;"55 5558 8393";0;0;0;Comentarios;"VALIDACION COSTO DIRECCION CONTACTOS";"17/02/2020 SE INICIA CONVENIO CON LIC JESUS DAMIAN";0;Comentarios;IMPORTANTE;"DEBE PRESENTAR LA CARTA DE USUARIOS TELEMEDIC Y  SI NIEGAN SERVICIO SOLICITAR POR AMÉRICA CALDILLO DE CONVENIOS";0;0;0;0;0;0;0;0;0;0;0;0;0;Proveedores;"COSTO TELASIST TELEMEDIC";"$550 CONSULTA ORTOPEDIA";Proveedores;"VALIDACION COSTO DIRECCION CONTACTOS";"   $550 CONSULTA ORTOPEDIA Y TRAUMATOLOGIA*** $350 CONSULTA MEDICO GENERAL*** 10% DE DESCUENTO  EN LABOERATORIO Y GABINETE, ESPECIALIDADES MEDICAS, IMAGENOLOGIA, HOSPITALIZACION, TOMOGRAFIA, RESONANCIA MAGNETICA Y AMBULANCIA.";0;0;0;0;0;0;0;0;ORTOPEDIA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+9833;;No;1;"HOSPITAL SANTA MARIA ZAMORA";"Hospital Tabulado";0000-00-00;"Leticia Citlalli Amaro Aleman";2020-02-19;Si;No;No;No;No;83;;;;;;;;;1429;"HOSPITAL ZAMORA ";1;0;"Michoacán de Ocampo";Zamora;19.9855555555556;-102.283055555556;"AV. MADERO SUR NO. 749, LA LUNETA, ZAMORA DE HIDALGO, MICHOACÁN";59680;0;0;0;0;0;3515124244;0;0;0;Comentarios;"COSTO PARA USUARIOS TELEMEDIC ";"DESCUENTOS HASTA DEL 10% EN SERVICIOS DE HOSPITALIZACION, LABORATORIO Y GABINETE";0;Comentarios;IMPORTANTE;"NA DEBE PRESENTAR CUPON PARA ACCEDER A DESCUENTO ";0;0;0;0;0;0;0;0;0;0;0;0;0;Comentarios;"COSTO PUBLICO MEDICINA GENERAL";370.00;Comentarios;"COSTO TELEMEDIC MEDICINA GENERAL";270.00;Comentarios;"VALIDACION COSTO DIRECCION CONTACTOS";"19/02/2020 SE CONFIRMA CONVENIO CON LIC. KARLA CASTILLO";0;0;0;0;0;"MEDICINA GENERAL";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+9833;;No;1;"HOSPITAL SANTA MARIA ZAMORA";"Hospital Tabulado";0000-00-00;"Leticia Citlalli Amaro Aleman";2020-02-19;Si;No;No;No;No;83;;;;;;;;;3212;"ZAMORA DE HIDALGO - ZAMORA";0;2323240369;"Michoacán de Ocampo";"Gabriel Zamora";19.1580555555556;-102.051111111111;"AV. MADERO SUR NO. 749, LA LUNETA, ZAMORA DE HIDALGO, MICHOACÁN, ";;LAC_ABARCA.COMPRAS@HOTMAIL.COM;0;0;0;3515124244;0;0;0;0;Comentarios;"COSTO PARA USUARIOS TELEMEDIC ";"DESCUENTOS HASTA DEL 10% EN SERVICIOS DE HOSPITALIZACION, LABORATORIO Y GABINETE";ALCON2918@HOTMAIL.COM;Comentarios;IMPORTANTE;"NA DEBE PRESENTAR CUPON PARA ACCEDER A DESCUENTO ";0;0;0;0;0;0;0;0;0;0;0;0;0;Comentarios;"COSTO PUBLICO MEDICINA GENERAL";370.00;Comentarios;"COSTO TELEMEDIC MEDICINA GENERAL";270.00;Comentarios;"VALIDACION COSTO DIRECCION CONTACTOS";"19/02/2020 SE CONFIRMA CONVENIO CON LIC. KARLA CASTILLO";0;0;0;0;0;"MEDICINA GENERAL";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+19162;;No;1;"CENTRO MALE";"Hospital Tabulado";0000-00-00;Sistemas;2020-02-18;Si;No;No;Si;No;83;;;;;;;;;26399;PSICOLOGIA;1;0;"Veracruz de Ignacio de la Llave";Tuxpan;20.9586111111111;-97.3808333333333;"Nuevo Tuxpam 6, Escudero, Túxpam de Rodríguez Cano, Veracruz";92830;spirit_jeni@hotmail.com;0;0;0;0;"783 104 7145";0;0;0;Comentarios;"VALIDACION COSTO DIRECCION CONTACTOS";"18/02/2020 SE INICIA CONVENIO CON JENNIFER";0;Proveedores;"COSTO TELASIST TELEMEDIC";"$820 TERAPIA DE PAREJA  $520 TERAPIA ADULTO  $420 TERAPIA INFANTIL  $520 ASESORIAS EN LACTANCIA  $320 TERAPIAS GRUPALES  420 CONFERENCIAS";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;PSICOLOGIA;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+17845;;No;1;"HOSPITAL COSTAMED";"Hospital Tabulado";0000-00-00;"Michelle Tapia Hernandez";2020-03-02;Si;No;No;No;No;83;;;;;;;;;24731;"SUC PLAYA DEL CARMEN";1;0;"Quintana Roo";Solidaridad;20.6275;-87.0811111111111;"México 305D MZ 285, El Pedregal, 77712 Playa del Carmen, Q.R.";77712;0;0;0;0;9848037777;0;"9878729400 EXT 1430";0;0;Comentarios;"VALIDACION COSTOS DIRECCION Y CONTACTOS";"03/01/2020 SE REAFIRMA CONVENIO CON ESTHER CARDENAS ";0;Comentarios;DESCUENTOS;"HASTA 10% EN SERVICIOS DE HOSPITALIZACION, LABORATORIO Y GABINETE  PAGO EN EFECTIVO";0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0
+
+Janet@Jannettejg2 MINGW64 ~/.git/ProyectobeduBD/Miproyecto1 (master)
+$ cat redes_proveedores_referencias.csv | redes_proveedores_referencias-h.csv
+bash: redes_proveedores_referencias-h.csv: command not found
+
+Janet@Jannettejg2 MINGW64 ~/.git/ProyectobeduBD/Miproyecto1 (master)
+$ cat redes_proveedores_referencias.csv > redes_proveedores_referencias-h.csv
+
+Janet@Jannettejg2 MINGW64 ~/.git/ProyectobeduBD/Miproyecto1 (master)
+$ ls
+ejemplo1.csv  redes_proveedores_referencias.csv
+ejemplo1.txt  redes_proveedores_referencias-h.csv
+
+Janet@Jannettejg2 MINGW64 ~/.git/ProyectobeduBD/Miproyecto1 (master)
+$ git add -A
+warning: LF will be replaced by CRLF in Miproyecto1/ejemplo1.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in Miproyecto1/redes_proveedores_referencias-h.csv.
+The file will have its original line endings in your working directory
+warning: LF will be replaced by CRLF in Miproyecto1/redes_proveedores_referencias.csv.
+The file will have its original line endings in your working directory
+
+Janet@Jannettejg2 MINGW64 ~/.git/ProyectobeduBD/Miproyecto1 (master)
+$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+        new file:   ejemplo1.csv
+        new file:   redes_proveedores_referencias-h.csv
+        new file:   redes_proveedores_referencias.csv
+
+
+Janet@Jannettejg2 MINGW64 ~/.git/ProyectobeduBD/Miproyecto1 (master)
+$ git commit -m "ejemplo2"
+[master 84437dc] ejemplo2
+ 3 files changed, 2030 insertions(+)
+ create mode 100644 Miproyecto1/ejemplo1.csv
+ create mode 100644 Miproyecto1/redes_proveedores_referencias-h.csv
+ create mode 100644 Miproyecto1/redes_proveedores_referencias.csv
+
+Janet@Jannettejg2 MINGW64 ~/.git/ProyectobeduBD/Miproyecto1 (master)
+$ git log
+commit 84437dc213f27a8429a6069b238290fc2672b952 (HEAD -> master)
+Author: Jannettejg2 <61663419+Jannettejg2@users.noreply.github.com>
+Date:   Sun Mar 8 21:42:37 2020 -0600
+
+    ejemplo2
+
+commit 509e3f5a1fe7bf146eb83bd3e7915e4b7b880258 (origin/master, origin/HEAD)
+Author: Jannettejg2 <61663419+Jannettejg2@users.noreply.github.com>
+Date:   Sun Mar 8 20:37:58 2020 -0600
+
+    ejemplo
+
+commit 66dabdbafe725fc3eea1fcfe84b2b471d6d0b5dc
+Author: Jannettejg2 <61663419+Jannettejg2@users.noreply.github.com>
+Date:   Fri Mar 6 22:08:17 2020 -0600
+
+    Initial commit
+
+Janet@Jannettejg2 MINGW64 ~/.git/ProyectobeduBD/Miproyecto1 (master)
+$ git push
+Enumerating objects: 6, done.
+Counting objects: 100% (6/6), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (4/4), done.
+Writing objects: 100% (4/4), 65.58 KiB | 3.12 MiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0)
+To https://github.com/Jannettejg2/ProyectobeduBD.git
+   509e3f5..84437dc  master -> master
